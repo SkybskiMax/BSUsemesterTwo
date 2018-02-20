@@ -1,1 +1,2 @@
 # BSUsemesterTwo
+Repository for homework
