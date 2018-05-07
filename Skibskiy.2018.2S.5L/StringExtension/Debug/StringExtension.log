@@ -1,0 +1,6 @@
+﻿  StringExtension.cpp
+c:\users\администратор\desktop\c++\лабы\skibskiy.2018.2s.5l\stringextension\stringextension.cpp(5): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\администратор\desktop\c++\лабы\skibskiy.2018.2s.5l\stringextension\stringextension.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\администратор\desktop\c++\лабы\skibskiy.2018.2s.5l\stringextension\stringextension.cpp(6): note: use of precompiled header
+c:\users\администратор\desktop\c++\лабы\skibskiy.2018.2s.5l\stringextension\stringextension.cpp(22): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: see declaration of 'strncpy'
