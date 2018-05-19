@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\администратор\source\repos\skibskiy.2018.2s.12l\skibskiy.2018.2s.12l\source.cpp(149): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Skibskiy.2018.2S.12L.vcxproj -> c:\users\администратор\source\repos\Skibskiy.2018.2S.12L\Debug\Skibskiy.2018.2S.12L.exe
